@@ -1,0 +1,14 @@
+﻿[
+  {
+    "ProcessName": "sublime_text",
+    "DimmedScreen": 1
+  },
+  {
+    "ProcessName": "vlc",
+    "DimmedScreen": 0
+  },
+  {
+    "ProcessName": "factorio",
+    "DimmedScreen": 1
+  }
+]
